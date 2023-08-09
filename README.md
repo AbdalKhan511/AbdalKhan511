@@ -1,4 +1,4 @@
-![logo](https://github.com/AbdalKhan511/AbdalKhan511/blob/main/Github.png)
+![logo](https://github.com/AbdalKhan511/AbdalKhan511/blob/main/THE.png)
 
 <h1 align="center">Hi 👋, I'm Abdal Khan</h1>
 <h3 align="center">A passionate frontend developer.</h3>
